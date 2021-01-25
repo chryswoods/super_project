@@ -11,5 +11,6 @@ over time as we run the workshop.
 The project involves planning the refurbishment and installation
 of a new kitchen.
 
-This is a extra line
+This is a extra line, with some more changes to test commit attribution
+
 
