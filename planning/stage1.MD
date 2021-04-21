@@ -8,6 +8,7 @@ We need to plan stage 1 of this project. Stage 1 involves the following activiti
 1. Install the drawers
 1. Paint the ceiling
 1. Tile the walls
+1. Be aware of the corners!
 1. Install the counter tops
 1. Install the gas oven
 1. Install the fridge
