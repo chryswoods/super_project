@@ -2,14 +2,20 @@
 
 We need to plan stage 1 of this project. Stage 1 involves the following activities:
 
-1. Install an electric boiler
-1. Install electric breakers
+1. Install gas pipe
+1. Install gas boiler
 1. Install the cupboards
 1. Install the drawers
 1. Paint the ceiling
 1. Tile the walls
 1. Install the counter tops
-1. Install the electric oven
-1. Install electric radiators
+1. Install the gas oven
 1. Install the fridge
+1. Build cat tree
+1. Build cat feeding area with food storage
+1. Install radiators
 
+Extra pull line
+
+New extra line!
+>>>>>>> 3aa190c358e20fb7e91b0207a0d5780b83e2eecf
