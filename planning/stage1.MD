@@ -2,6 +2,7 @@
 
 We need to plan stage 1 of this project. Stage 1 involves the following activities:
 
+1. first step added
 1. Install a gas pipe
 1. Install a gas boiler
 1. Install radiators
