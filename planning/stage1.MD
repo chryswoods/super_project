@@ -16,3 +16,6 @@ We need to plan stage 1 of this project. Stage 1 involves the following activiti
 1. Install radiators
 
 Extra pull line
+
+New extra line!
+>>>>>>> 3aa190c358e20fb7e91b0207a0d5780b83e2eecf
