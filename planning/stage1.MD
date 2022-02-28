@@ -12,4 +12,5 @@ We need to plan stage 1 of this project. Stage 1 involves the following activiti
 1. Install the electric oven
 1. Install electric radiators
 1. Install the fridge
-
+1. Build cat tree
+1. Build cat feeding area with food storage
