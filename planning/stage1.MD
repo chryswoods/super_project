@@ -10,6 +10,9 @@ We need to plan stage 1 of this project. Stage 1 involves the following activiti
 1. Install the oven
 1. Install the fridge
 
+add lots of space for the cat
 
+think about space for cat
 
 MAYBE GET A DOG AND DOG SPACE
+
